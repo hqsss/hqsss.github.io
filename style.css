@@ -6,7 +6,7 @@
 	margin: 0px;
 	padding: 0px;
 }
-.rounded-button {
+.rounded-button1 {
     display: inline-block;
     height: 40px;
     padding: 0;
@@ -14,8 +14,34 @@
     vertical-align: top;
     width: 40px;
     border-radius: 50%;
+    position: fixed;
+    top: 37%;
+	left: 40.1%;
 }
-
+.rounded-button2 {
+    display: inline-block;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 40px;
+    border-radius: 50%;
+    position: fixed;
+    top: 37%;
+    left: 48.5%;
+}
+.rounded-button3 {
+    display: inline-block;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    vertical-align: top;
+    width: 40px;
+    border-radius: 50%;
+    position: fixed;
+    top: 37%;
+    left: 56.9%;
+}
 #close-image img {
     display: block;
     height: 40px;  
